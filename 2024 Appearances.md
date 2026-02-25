@@ -1,3 +1,13 @@
+2026
+
+- apr 8-10 london
+- apr 20-21 miami
+- may 15-17 singapore 
+- jun 1-7 aiei melbourne
+- jun 29-july 2 aiewf
+
+2025
+
 - feb 9-14 - aca X retreat
 - March 10 - AIE Spring forward?
 - Apr 19-23 - React miami
